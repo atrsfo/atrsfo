@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shail Jindal
+- 👋 Hi, I’m Shail Jindal, I am passionate about technology.
 - 👀 I’m interested in effective software architecture, design and development
 - 🌱 I’m currently growing my skills in solution architectures and high quality software development
 - 💞️ I’m looking to collaborate on good java based open source projects
