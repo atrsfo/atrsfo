@@ -2,7 +2,7 @@
 - 👀 I’m interested in effective software architecture, design and development, and intelligent systems.
 - 🌱 I’m currently growing my skills in solution architectures, high quality software development, and AIML technologies.
 
-
+Note: Private Projects would not be visible unless shared.
 
 <!---
 atrsfo/atrsfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
