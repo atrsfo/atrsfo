@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shail Jindal, I am passionate about technology.
-- 👀 I’m interested in effective software architecture, design and development, and intelligent systems.
+- 👀 I work in the areas of effective software architecture, design and development, and intelligent systems.
 - 🌱 I’m currently growing my skills further in solution architectures, high quality software development, and AIML technologies.
 
 Note: Private Projects would not be visible unless shared.
